@@ -1,0 +1,25 @@
+E:\Arquitetura De Software\5 - Aula - 03-04-2024\API_DOTNET\src\Api.Data\bin\Debug\net8.0\Data.deps.json
+E:\Arquitetura De Software\5 - Aula - 03-04-2024\API_DOTNET\src\Api.Data\bin\Debug\net8.0\Data.dll
+E:\Arquitetura De Software\5 - Aula - 03-04-2024\API_DOTNET\src\Api.Data\bin\Debug\net8.0\Data.pdb
+E:\Arquitetura De Software\5 - Aula - 03-04-2024\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquitetura De Software\5 - Aula - 03-04-2024\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+E:\Arquitetura De Software\5 - Aula - 03-04-2024\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+E:\Arquitetura De Software\5 - Aula - 03-04-2024\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+E:\Arquitetura De Software\5 - Aula - 03-04-2024\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.dll
+E:\Arquitetura De Software\5 - Aula - 03-04-2024\API_DOTNET\src\Api.Data\obj\Debug\net8.0\refint\Data.dll
+E:\Arquitetura De Software\5 - Aula - 03-04-2024\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.pdb
+E:\Arquitetura De Software\5 - Aula - 03-04-2024\API_DOTNET\src\Api.Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\bin\Debug\net8.0\Data.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\bin\Debug\net8.0\Data.pdb
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.pdb
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Data\obj\Debug\net8.0\ref\Data.dll

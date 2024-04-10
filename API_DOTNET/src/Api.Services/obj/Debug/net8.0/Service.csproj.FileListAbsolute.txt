@@ -1,0 +1,11 @@
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Services\bin\Debug\net8.0\Service.deps.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Services\bin\Debug\net8.0\Service.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Services\bin\Debug\net8.0\Service.pdb
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Services\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Services\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Services\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Services\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Services\obj\Debug\net8.0\Service.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Services\obj\Debug\net8.0\refint\Service.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Services\obj\Debug\net8.0\Service.pdb
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Services\obj\Debug\net8.0\ref\Service.dll

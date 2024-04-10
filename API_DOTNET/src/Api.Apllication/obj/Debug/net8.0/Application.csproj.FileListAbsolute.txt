@@ -1,0 +1,66 @@
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\appsettings.Development.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\appsettings.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.exe
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.deps.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.runtimeconfig.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.pdb
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.build.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.development.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.CopyComplete
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\refint\Application.dll
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.pdb
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.genruntimeconfig.cache
+E:\Arquitetura De Software\4 - Aula - 27-03-2024\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\ref\Application.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\appsettings.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.exe
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.deps.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Application.pdb
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.build.Application.props
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Application.props
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Application.props
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\scopedcss\bundle\Application.styles.css
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\refint\Application.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.pdb
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Apllication\obj\Debug\net8.0\ref\Application.dll
