@@ -9,3 +9,4 @@ C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src
 C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.CrossCutting\obj\Debug\net8.0\refint\Api.CrossCutting.dll
 C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.CrossCutting\obj\Debug\net8.0\Api.CrossCutting.pdb
 C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.CrossCutting\obj\Debug\net8.0\ref\Api.CrossCutting.dll
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.CrossCutting\obj\Debug\net8.0\Api.CrossCutting.sourcelink.json
