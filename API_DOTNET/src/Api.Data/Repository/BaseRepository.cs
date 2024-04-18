@@ -43,6 +43,7 @@ namespace Api.Data.Repository
         }
 
         public async Task<T> InsertAsync(T item)
+
         {
             try
             {
@@ -59,14 +60,28 @@ namespace Api.Data.Repository
             {
                 throw ex;
             }
-            return item
+            return item;
         }
 
+        public async Task<bool> ExistAsync(Guid id)
+        {
+            try
+            {
+                return await _dataset.AnyAsync(p => p.Id.Equals(id));
+            }
+            catch (Exception ex)
+            {
+                
+                throw ex;
+            }
+        }
+            
+        
         public async Task<T> SelectAsync(Guid id)
         {
             try
             {
-                
+                return await _dataset.SingleOrDefaultAsync(p => p.Id.Equals(id));
             }
             catch (Exception ex)
             {
@@ -79,7 +94,7 @@ namespace Api.Data.Repository
         {
             try
             {
-                
+                return await _dataset.ToListAsync();
             }
             catch (Exception ex)
             {
