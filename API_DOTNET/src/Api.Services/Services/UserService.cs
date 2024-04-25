@@ -3,35 +3,41 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Api.Domain.Entities;
+using Api.Domain.Interfaces;
 using Api.Domain.Interfaces.Services.User;
 
 namespace Api.Services.Services
 {
     public class UserService : IUserService
     {
-        public Task<bool> Delete(Guid id)
+        private IRepository<UserEntity> _repository;
+        public UserService(IRepository<UserEntity> repository)
         {
-            throw new NotImplementedException();
+            _repository = repository;
+        }
+        public async Task<bool> Delete(Guid id)
+        {
+            return await _repository.DeleteAsync(id);
         }
 
-        public Task<UserEntity> Get(Guid id)
+        public async Task<UserEntity> Get(Guid id)
         {
-            throw new NotImplementedException();
+            return await _repository.SelectAsync(id);
         }
 
-        public Task<IEnumerable<UserEntity>> GetAll()
+        public async Task<IEnumerable<UserEntity>> GetAll()
         {
-            throw new NotImplementedException();
+            return await _repository.SelectAsync();
         }
 
-        public Task<UserEntity> Post(UserEntity user)
+        public async Task<UserEntity> Post(UserEntity user)
         {
-            throw new NotImplementedException();
+            return await _repository.InsertAsync(user);
         }
 
-        public Task<UserEntity> Put(UserEntity user)
+        public async Task<UserEntity> Put(UserEntity user)
         {
-            throw new NotImplementedException();
+            return await _repository.UpdateAsync(user);
         }
     }
 }
