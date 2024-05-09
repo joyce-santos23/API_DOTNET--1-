@@ -10,7 +10,7 @@ namespace Api.Apllication.Controller
     public class UsersController : ControllerBase
     {
         [HttpGet]
-        public async Task<ActionResult> GetAll ([FromServices] IUserService _service, Guid id)
+        public async Task<ActionResult> GetAll ([FromServices] IUserService _service)
         {
             if(!ModelState.IsValid)
             {
