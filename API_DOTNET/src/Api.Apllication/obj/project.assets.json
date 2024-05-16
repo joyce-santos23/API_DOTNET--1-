@@ -3338,6 +3338,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Api.CrossCutting >= 1.0.0",
+      "Domain >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.1",
       "Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
@@ -3376,6 +3378,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.CrossCutting\\Api.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.CrossCutting\\Api.CrossCutting.csproj"
+            },
+            "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Domain\\Domain.csproj"
+            },
             "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Services\\Service.csproj": {
               "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Services\\Service.csproj"
             }

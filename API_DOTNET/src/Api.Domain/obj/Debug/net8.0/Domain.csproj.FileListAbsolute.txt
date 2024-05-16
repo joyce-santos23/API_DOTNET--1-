@@ -5,8 +5,8 @@ C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src
 C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Domain\obj\Debug\net8.0\Domain.sourcelink.json
 C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Domain\obj\Debug\net8.0\ref\Domain.dll
-C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Domain\obj\Debug\net8.0\Domain.sourcelink.json

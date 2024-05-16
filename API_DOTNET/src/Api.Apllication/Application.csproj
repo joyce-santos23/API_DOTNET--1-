@@ -14,6 +14,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Api.Services\Service.csproj" />
+    <ProjectReference Include="..\Api.Domain\Domain.csproj" />
+    <ProjectReference Include="..\Api.CrossCutting\Api.CrossCutting.csproj" />
   </ItemGroup>
 
 </Project>
