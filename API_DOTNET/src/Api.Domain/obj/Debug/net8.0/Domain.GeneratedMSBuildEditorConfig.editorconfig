@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain
-build_property.ProjectDir = C:\Users\joyce\OneDrive\Documentos\aulas\7_periodo\API_DOTNET (1)\API_DOTNET\src\Api.Domain\
+build_property.ProjectDir = C:\Users\joyce\API_DOTNET--1-\API_DOTNET\src\Api.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

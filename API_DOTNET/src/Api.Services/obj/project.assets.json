@@ -1020,16 +1020,6 @@
           }
         }
       },
-      "Api.CrossCutting/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Api.CrossCutting.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Api.CrossCutting.dll": {}
-        }
-      },
       "Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2853,11 +2843,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Api.CrossCutting/1.0.0": {
-      "type": "project",
-      "path": "../Api.CrossCutting/Api.CrossCutting.csproj",
-      "msbuildProject": "../Api.CrossCutting/Api.CrossCutting.csproj"
-    },
     "Data/1.0.0": {
       "type": "project",
       "path": "../Api.Data/Data.csproj",
@@ -2871,7 +2856,6 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Api.CrossCutting >= 1.0.0",
       "Data >= 1.0.0",
       "Domain >= 1.0.0"
     ]
@@ -2883,11 +2867,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Services\\Service.csproj",
+      "projectUniqueName": "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Services\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Services\\Service.csproj",
+      "projectPath": "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Services\\Service.csproj",
       "packagesPath": "C:\\Users\\joyce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Services\\obj\\",
+      "outputPath": "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2909,14 +2893,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.CrossCutting\\Api.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.CrossCutting\\Api.CrossCutting.csproj"
+            "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Data\\Data.csproj"
             },
-            "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Data\\Data.csproj"
-            },
-            "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Domain\\Domain.csproj"
+            "C:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }

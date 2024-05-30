@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OI83LL+iAiLX9sV/UTO+yZKvLw8sTPHOW4ZJzl0T50bsgd+zQoiFUHoMlMK0Cz+BhyjpKpW2pekR/hjZ6/0/fQ==",
+  "dgSpecHash": "LEWYyLlAL1NI+5S6CtYRa/sLjRC1YqCw34x5/pXT2vWx7QBKP7qsrHi4tVLkPoY6tvTAJjpin+vevweT4kILxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Apllication\\Application.csproj",
+  "projectFilePath": "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Apllication\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\joyce\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\joyce\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\joyce\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\joyce\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\joyce\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
@@ -69,5 +71,16 @@
     "C:\\Users\\joyce\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\joyce\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Versão detectada do pacote fora da restrição de dependência: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requer AutoMapper (= 12.0.1), mas a versão AutoMapper 13.0.1 foi resolvida.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

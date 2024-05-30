@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {}
+    "C:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\joyce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Domain\\obj\\",
+        "outputPath": "C:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

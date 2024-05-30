@@ -2,6 +2,35 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "AutoMapper/13.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1": {
+        "type": "package",
+        "dependencies": {
+          "AutoMapper": "[12.0.1]",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "Azure.Core/1.35.0": {
         "type": "package",
         "dependencies": {
@@ -1129,6 +1158,13 @@
       "Api.CrossCutting/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AutoMapper": "13.0.1",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+          "Data": "1.0.0",
+          "Domain": "1.0.0",
+          "Service": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Api.CrossCutting.dll": {}
         },
@@ -1165,7 +1201,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Api.CrossCutting": "1.0.0",
           "Data": "1.0.0",
           "Domain": "1.0.0"
         },
@@ -1179,6 +1214,35 @@
     }
   },
   "libraries": {
+    "AutoMapper/13.0.1": {
+      "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "type": "package",
+      "path": "automapper/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.13.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net6.0/AutoMapper.dll",
+        "lib/net6.0/AutoMapper.xml"
+      ]
+    },
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1": {
+      "sha512": "+g/K+Vpe3gGMKGzjslMOdqNlkikScDjWfVvmWTayrDHaG/n2pPmFBMa+jKX1r/h6BDGFdkyRjAuhFE3ykW+r1g==",
+      "type": "package",
+      "path": "automapper.extensions.microsoft.dependencyinjection/12.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+        "automapper.extensions.microsoft.dependencyinjection.nuspec",
+        "icon.png",
+        "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
     "Azure.Core/1.35.0": {
       "sha512": "hENcx03Jyuqv05F4RBEPbxz29UrM3Nbhnr6Wl6NQpoU9BCIbL3XLentrxDCTrH54NLS11Exxi/o8MYgT/cnKFA==",
       "type": "package",
@@ -3352,11 +3416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Apllication\\Application.csproj",
+      "projectUniqueName": "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Apllication\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Apllication\\Application.csproj",
+      "projectPath": "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Apllication\\Application.csproj",
       "packagesPath": "C:\\Users\\joyce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Apllication\\obj\\",
+      "outputPath": "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Apllication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3378,14 +3442,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.CrossCutting\\Api.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.CrossCutting\\Api.CrossCutting.csproj"
+            "C:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.CrossCutting\\Api.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.CrossCutting\\Api.CrossCutting.csproj"
             },
-            "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Domain\\Domain.csproj"
+            "C:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Domain\\Domain.csproj"
             },
-            "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Services\\Service.csproj": {
-              "projectPath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Services\\Service.csproj"
+            "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Services\\Service.csproj": {
+              "projectPath": "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Services\\Service.csproj"
             }
           }
         }
@@ -3436,5 +3500,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Versão detectada do pacote fora da restrição de dependência: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requer AutoMapper (= 12.0.1), mas a versão AutoMapper 13.0.1 foi resolvida.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

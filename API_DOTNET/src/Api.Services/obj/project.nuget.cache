@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lk9VYjjl/fy38dYezY3lxXfu9ALfMHm7JdCbE2iN6a/8OFCoEAKPLRRBiqQbOK1Xma56zXsSyd/3U+XzCwUaDw==",
+  "dgSpecHash": "eL5dj3zsmwHZndyUMG7rvR0YdTabxliDJPM3ZeNL9HoPZGhuD9iAhjRJ+QV8hUwdYC+V/KlsAbrv/eVcpf+M8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joyce\\OneDrive\\Documentos\\aulas\\7_periodo\\API_DOTNET (1)\\API_DOTNET\\src\\Api.Services\\Service.csproj",
+  "projectFilePath": "c:\\Users\\joyce\\API_DOTNET--1-\\API_DOTNET\\src\\Api.Services\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joyce\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\joyce\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
